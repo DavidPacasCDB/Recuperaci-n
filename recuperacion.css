@@ -1,0 +1,50 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.parteprincipal {
+	display: flex;
+	background: orange;
+	height: 225px;
+	padding-top: 10px;
+	margin: 10px;
+	align-items: center;
+	padding: 40px;
+}
+
+.parteprincipal h1{
+	display: flex;
+	width: 300px;
+	padding: 15px;
+	font-size: 35px;
+}
+
+.parteprincipal p{
+	display: flex;
+	width: 300px;
+	padding: 15px;
+	align-content: center;
+	font-size: 25px;
+}
+
+.parteprincipal img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.parrafos {
+	align-items: center;
+	padding: 45px;
+	margin: 15px;
+	height: 50px;
+	width: 1450px;
+	text-align: center;
+	align-content: center;
+}
+
+.video {
+	align-content: center;
+	
+}
